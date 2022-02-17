@@ -1,0 +1,15 @@
+C:\Users\VictorFont\Desktop\codurance\codurance\bin\Debug\net6.0\codurance.exe
+C:\Users\VictorFont\Desktop\codurance\codurance\bin\Debug\net6.0\codurance.deps.json
+C:\Users\VictorFont\Desktop\codurance\codurance\bin\Debug\net6.0\codurance.runtimeconfig.json
+C:\Users\VictorFont\Desktop\codurance\codurance\bin\Debug\net6.0\codurance.dll
+C:\Users\VictorFont\Desktop\codurance\codurance\bin\Debug\net6.0\ref\codurance.dll
+C:\Users\VictorFont\Desktop\codurance\codurance\bin\Debug\net6.0\codurance.pdb
+C:\Users\VictorFont\Desktop\codurance\codurance\obj\Debug\net6.0\codurance.csproj.AssemblyReference.cache
+C:\Users\VictorFont\Desktop\codurance\codurance\obj\Debug\net6.0\codurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VictorFont\Desktop\codurance\codurance\obj\Debug\net6.0\codurance.AssemblyInfoInputs.cache
+C:\Users\VictorFont\Desktop\codurance\codurance\obj\Debug\net6.0\codurance.AssemblyInfo.cs
+C:\Users\VictorFont\Desktop\codurance\codurance\obj\Debug\net6.0\codurance.csproj.CoreCompileInputs.cache
+C:\Users\VictorFont\Desktop\codurance\codurance\obj\Debug\net6.0\codurance.dll
+C:\Users\VictorFont\Desktop\codurance\codurance\obj\Debug\net6.0\ref\codurance.dll
+C:\Users\VictorFont\Desktop\codurance\codurance\obj\Debug\net6.0\codurance.pdb
+C:\Users\VictorFont\Desktop\codurance\codurance\obj\Debug\net6.0\codurance.genruntimeconfig.cache
