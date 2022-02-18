@@ -1,0 +1,15 @@
+C:\Users\VictorFont\Desktop\frunner\frunner\bin\Debug\net6.0\frunner.exe
+C:\Users\VictorFont\Desktop\frunner\frunner\bin\Debug\net6.0\frunner.deps.json
+C:\Users\VictorFont\Desktop\frunner\frunner\bin\Debug\net6.0\frunner.runtimeconfig.json
+C:\Users\VictorFont\Desktop\frunner\frunner\bin\Debug\net6.0\frunner.dll
+C:\Users\VictorFont\Desktop\frunner\frunner\bin\Debug\net6.0\ref\frunner.dll
+C:\Users\VictorFont\Desktop\frunner\frunner\bin\Debug\net6.0\frunner.pdb
+C:\Users\VictorFont\Desktop\frunner\frunner\obj\Debug\net6.0\frunner.csproj.AssemblyReference.cache
+C:\Users\VictorFont\Desktop\frunner\frunner\obj\Debug\net6.0\frunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VictorFont\Desktop\frunner\frunner\obj\Debug\net6.0\frunner.AssemblyInfoInputs.cache
+C:\Users\VictorFont\Desktop\frunner\frunner\obj\Debug\net6.0\frunner.AssemblyInfo.cs
+C:\Users\VictorFont\Desktop\frunner\frunner\obj\Debug\net6.0\frunner.csproj.CoreCompileInputs.cache
+C:\Users\VictorFont\Desktop\frunner\frunner\obj\Debug\net6.0\frunner.dll
+C:\Users\VictorFont\Desktop\frunner\frunner\obj\Debug\net6.0\ref\frunner.dll
+C:\Users\VictorFont\Desktop\frunner\frunner\obj\Debug\net6.0\frunner.pdb
+C:\Users\VictorFont\Desktop\frunner\frunner\obj\Debug\net6.0\frunner.genruntimeconfig.cache

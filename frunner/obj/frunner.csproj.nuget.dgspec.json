@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\VictorFont\\Desktop\\frunner\\frunner\\frunner.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\VictorFont\\Desktop\\frunner\\frunner\\frunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VictorFont\\Desktop\\frunner\\frunner\\frunner.csproj",
+        "projectName": "frunner",
+        "projectPath": "C:\\Users\\VictorFont\\Desktop\\frunner\\frunner\\frunner.csproj",
+        "packagesPath": "C:\\Users\\VictorFont\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VictorFont\\Desktop\\frunner\\frunner\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VictorFont\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.shdev.local/nuget/Default": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://baget.webbeds.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
